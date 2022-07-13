@@ -8,3 +8,5 @@ um simples calculo :
 3/3 =1
 
 #outra mudança no arquivo
+
+#uma linha nova no branch feature
