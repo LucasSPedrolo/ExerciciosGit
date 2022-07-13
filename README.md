@@ -7,6 +7,4 @@ um simples calculo :
 
 3/3 =1
 
-#agora uma simples multiplicação
-
-2*3 = 6
+#outra mudança no arquivo
