@@ -7,6 +7,10 @@ um simples calculo :
 
 3/3 =1
 
+<<<<<<< HEAD
 #outra mudança no arquivo
 
 #uma linha nova no branch feature
+=======
+#outra mudança no arquivo agr feature2
+>>>>>>> feature2
