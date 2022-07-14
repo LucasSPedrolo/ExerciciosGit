@@ -14,3 +14,4 @@ um simples calculo :
 =======
 #outra mudança no arquivo agr feature2
 >>>>>>> feature2
+# ExerciciosGit
